@@ -2,7 +2,7 @@
 
 
 ![HS98024's github stats](https://github-readme-stats.vercel.app/api?username=HS98094&show_icons=true)
-[![solved.ac choihs0924](http://mazassumnida.wtf/api/generate_badge?boj=HS98094)](https://solved.ac/choihs0924)
+[![solved.ac choihs0924](http://mazassumnida.wtf/api/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <!--
