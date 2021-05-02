@@ -5,8 +5,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
  
 # My stats
-![HS98024's github stats](https://github-readme-stats.vercel.app/api?username=HS98094&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HS98094)
 [![solved.ac choihs0924](http://mazassumnida.wtf/api/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924)
+![HS98024's github stats](https://github-readme-stats.vercel.app/api?username=HS98094&show_icons=true)
 
 <!--
 **HS98094/HS98094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
