@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=B8F8FB&height=100&section=header&text=Choi%20H.S&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B8F8FB&height=100&section=header&text=Choi%20H.S&fontSize=50)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
