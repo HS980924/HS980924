@@ -1,14 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B8F8FB&height=100&section=header&text=Choi%20H.S&fontSize=50)
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
- 
-# My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HS98094&theme=dracula)
-[![solved.ac choihs0924](http://mazassumnida.wtf/api/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924)
-![HS98024's github stats](https://github-readme-stats.vercel.app/api?username=HS98094&show_icons=true&theme=dracula)
+ ## **소개**
+- **이름** : 최형순 
+- **닉네임** : HS980924
+- **이메일** : choihs980924@gmail.com
+- **블로그** : [velog](https://velog.io/@hs980924)
+
+## **👤 Project**
+- **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell)**
+
+## **🛠 Tech Stack 🛠
+- 
+
+## **My stats**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HS980924&theme=dracula)  
+[![solved.ac choihs0924](http://mazassumnida.wtf/api/generate_badge?boj=choihs0924)](https://solved.ac/choihs0924)  
+![HS98024's github stats](https://github-readme-stats.vercel.app/api?username=HS980924&show_icons=true&theme=dracula)
 
 <!--
 **HS98094/HS98094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
