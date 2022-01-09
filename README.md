@@ -1,3 +1,4 @@
+![my img](https://github.com/HS980924/HS98094/blob/main/profile.png)  
 
 ## **소개**
 - **이름** : 최형순 
