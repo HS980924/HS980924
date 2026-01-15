@@ -4,7 +4,6 @@
 - **이름** : 최형순 
 - **닉네임** : HS980924
 - **이메일** : choihs980924@gmail.com
-- **블로그** : [velog](https://velog.io/@hs980924)
 
 ## **👤 Project**
 - **[Syncer-Bell](https://github.com/DevvIll/Syncer-Bell)**
